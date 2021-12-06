@@ -12,7 +12,7 @@ Well, that is exactly what your task is for today: Write a program that checks a
 
 ## 🧩 The puzzle
 
-You have sample data in [./src/data/sampleData.json](data/sampleData.json). It is an array with names of kids, and `events` that happened throughout the year.
+You have sample data in [./src/data/sampleData.json](./src/data/sampleData.json). It is an array with names of kids, and `events` that happened throughout the year.
 This is an array of objects with `name` (description of the event) and `effect` (how it affects the naughty/nice score)."
 
 Some of them are nice acts 😇, such as helping an elderly person cross the road. And some are naughty acts 😈, like stealing candy.
