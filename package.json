@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "nodemon src/index.js --experimental-modules --ignore 'src/data/*.json'",
+        "dev": "nodemon --experimental-json-modules src/index.js --experimental-modules --ignore 'src/data/*.json'",
         "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
     },
     "author": "Marc Backes",
